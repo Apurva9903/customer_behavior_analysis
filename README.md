@@ -93,5 +93,5 @@ queries/: SQL files for PostgreSQL business analysis.
 dashboard/: Power BI file (.pbix) and dashboard screenshots.
 
 ### 📸 Dashboard Preview
-![image alt](https://github.com/Apurva9903/Amazon_Sales_Analysis/blob/main/Dashboard.png)
+![image alt](https://github.com/Apurva9903/customer_behavior_analysis/blob/main/Dashboard_sample.png)
 
